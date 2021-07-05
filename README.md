@@ -34,10 +34,10 @@ You only need python & virtualenv installed on your system.
 ## Usage
 
 1. Once the server is up! visit the home page & enter SAS program location-
+![](images/homepage.png)
+2. You will get below page 
 ![](images/analysis.PNG)
 
-2. You will get below page 
-![](images/Basic_Version_Addition.PNG)
 <!-- ROADMAP -->
 ## Roadmap
 
